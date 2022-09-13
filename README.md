@@ -3,7 +3,7 @@
 p>
 
 
-# :mortar_board: Projeto
+# :mortar_board: Projeto (em desenvolvimento)
 Next Level Week eSports - Trilha Explorer. 
 
 
