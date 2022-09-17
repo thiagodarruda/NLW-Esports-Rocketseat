@@ -3,11 +3,15 @@
 p>
 
 
-# :mortar_board: Projeto (em desenvolvimento)
+# :mortar_board: Projeto Finalizado
 Next Level Week eSports - Trilha Explorer. 
+  
+  ![projeto final](https://user-images.githubusercontent.com/75036802/190871203-23ec85a0-ba42-4fba-a5d2-414662967b4c.png)
 
 
 
+
+  
 # 🔖 Layout
 
 O layout você poderá acessar através desse [link](https://www.figma.com/community/file/1150897317533332617).
