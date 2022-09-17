@@ -5,6 +5,7 @@ p>
 #  Projeto Game Hub
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > Next Level Week eSports - Trilha Explorer.
 =======
 # :mortar_board: Projeto Finalizado
@@ -43,3 +44,6 @@ Esse projeto utiliza as seguintes tecnologias:
 
 #neverstoplearning
 >>>>>>> 881da324a45fb5d471c2baf00680bf231ab3ba44
+=======
+
+>>>>>>> 2e64fd195182ae3db92a87bcfb558525ed19591b
