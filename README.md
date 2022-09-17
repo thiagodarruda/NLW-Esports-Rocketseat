@@ -19,6 +19,7 @@ Esse projeto utiliza as seguintes tecnologias:
 
 * HTML
 * CSS
+* GIT
 
 
 
